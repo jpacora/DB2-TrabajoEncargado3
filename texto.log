@@ -1,0 +1,377 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050) (preloaded format=pdflatex 2019.9.16)  16 SEP 2019 02:35
+entering extended mode
+**./texto.tex
+(texto.tex
+LaTeX2e <2018-12-01>
+(/usr/local/share/miktex-texmf/tex/latex/elsarticle/elsarticle.cls
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen102
+(/usr/local/share/miktex-texmf/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/share/miktex-texmf/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/share/miktex-texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/share/miktex-texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/share/miktex-texmf/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box27
+\elsarticlehighlightsbox=\box28
+\elsarticlegrabsbox=\box29
+\keybox=\box30
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box31
+\els@boxb=\box32
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+ (texto.spl) (/usr/local/share/miktex-texmf/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+\openout3 = `texto.spl'.
+
+\appnamewidth=\dimen109
+)
+(/usr/local/share/miktex-texmf/tex/generic/babel/babel.sty
+Package: babel 2019/07/19 3.33 The Babel package
+
+(/usr/local/share/miktex-texmf/tex/generic/babel/switch.def
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/usr/local/share/miktex-texmf/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/usr/local/share/miktex-texmf/tex/latex/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/usr/local/share/miktex-texmf/tex/generic/babel/babel.def
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count95
+\U@D=\dimen110
+
+(/usr/local/share/miktex-texmf/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count96
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Spanish' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 51.
+
+\l@spanish = a dialect from \language0
+\es@quottoks=\toks17
+\es@quotdepth=\count97
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (/usr/local/share/miktex-texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/share/miktex-texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/share/miktex-texmf/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count98
+\output=\toks19
+\linenoprevgraf=\count99
+\linenumbersep=\dimen111
+\linenumberwidth=\dimen112
+\c@linenumber=\count100
+\c@pagewiselinenumber=\count101
+\c@LN@truepage=\count102
+\c@internallinenumber=\count103
+\c@internallinenumbers=\count104
+\quotelinenumbersep=\dimen113
+\bframerule=\dimen114
+\bframesep=\dimen115
+\bframebox=\box33
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/local/share/miktex-texmf/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+(/usr/local/share/miktex-texmf/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/share/miktex-texmf/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks22
+\float@box=\box34
+\@float@everytoks=\toks23
+\@floatcapt=\box35
+) (texto.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `texto.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(/usr/local/share/miktex-texmf/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen116
+\scratchbox=\box36
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen117
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/share/miktex-texmf/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/share/miktex-texmf/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/share/miktex-texmf/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/share/miktex-texmf/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/share/miktex-texmf/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/share/miktex-texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/share/miktex-texmf/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/share/miktex-texmf/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/share/miktex-texmf/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/local/share/miktex-texmf/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/share/miktex-texmf/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+
+(/usr/local/share/miktex-texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+
+(/usr/local/share/miktex-texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (21.44156pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/12 los programadores se enfrentan, entre otros desafos, al probl
+ema de la persistencia
+ []
+
+
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{/home/pordefecto/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+Overfull \hbox (30.7109pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/12 presentan ventajas y desventajas que deberan ser evaluadas seg
+un las caractersticas
+ []
+
+[2]
+<./IMAGENES/imagen.png, id=12, 1204.5pt x 632.3625pt>
+File: ./IMAGENES/imagen.png Graphic file (type png)
+<use ./IMAGENES/imagen.png>
+Package pdftex.def Info: ./IMAGENES/imagen.png  used on input line 64.
+(pdftex.def)             Requested size: 341.42978pt x 199.16629pt.
+ [3 <./IMAGENES/imagen.png (PNG copy)>]
+File: ./IMAGENES/imagen.png Graphic file (type png)
+<use ./IMAGENES/imagen.png>
+Package pdftex.def Info: ./IMAGENES/imagen.png  used on input line 81.
+(pdftex.def)             Requested size: 341.42978pt x 199.16629pt.
+File: ./IMAGENES/imagen.png Graphic file (type png)
+<use ./IMAGENES/imagen.png>
+Package pdftex.def Info: ./IMAGENES/imagen.png  used on input line 82.
+(pdftex.def)             Requested size: 341.42978pt x 199.16629pt.
+ [4]
+
+Package natbib Warning: Citation `referencia10' on page 5 undefined on input li
+ne 96.
+
+
+Package natbib Warning: Citation `referencia09' on page 5 undefined on input li
+ne 104.
+
+
+Overfull \hbox (2.37648pt too wide) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 suscipit id a purus. Nam tempus eros ac molestie viverra. Curab
+itur vulputate,
+ []
+
+[5]
+File: ./IMAGENES/imagen.png Graphic file (type png)
+<use ./IMAGENES/imagen.png>
+Package pdftex.def Info: ./IMAGENES/imagen.png  used on input line 116.
+(pdftex.def)             Requested size: 341.42978pt x 199.16629pt.
+
+Overfull \hbox (2.37648pt too wide) in paragraph at lines 122--123
+\OT1/cmr/m/n/12 suscipit id a purus. Nam tempus eros ac molestie viverra. Curab
+itur vulputate,
+ []
+
+File: ./IMAGENES/imagen.png Graphic file (type png)
+<use ./IMAGENES/imagen.png>
+Package pdftex.def Info: ./IMAGENES/imagen.png  used on input line 126.
+(pdftex.def)             Requested size: 341.42978pt x 199.16629pt.
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Overfull \hbox (6.42366pt too wide) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 hendrerit diam metus non nunc. Nam tincidunt augue at rhoncus s
+emper.
+ []
+
+[7]
+No file texto.bbl.
+
+Package natbib Warning: Citation `referencia01' on page 8 undefined on input li
+ne 148.
+
+
+Package natbib Warning: Citation `referencia02' on page 8 undefined on input li
+ne 149.
+
+
+Package natbib Warning: Citation `referencia03' on page 8 undefined on input li
+ne 150.
+
+
+Package natbib Warning: Citation `referencia04' on page 8 undefined on input li
+ne 151.
+
+
+Package natbib Warning: Citation `referencia05' on page 8 undefined on input li
+ne 152.
+
+
+Package natbib Warning: There were undefined citations.
+
+[8] (texto.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 3653 strings out of 494857
+ 48910 string characters out of 3178502
+ 119613 words of memory out of 3000000
+ 7253 multiletter control sequences out of 15000+200000
+ 9883 words of font info for 37 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 41i,6n,31p,908b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
+sr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/share
+/miktex-texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/share/mikte
+x-texmf/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on texto.pdf (8 pages, 100553 bytes).
+PDF statistics:
+ 50 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
